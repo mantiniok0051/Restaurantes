@@ -47,7 +47,7 @@ System.register(['angular2/core', 'angular2/router', './components/restaurantes-
                     }),
                     router_1.RouteConfig([
                         { path: '/', name: 'Home', component: restaurantes_list_component_1.RestaurantesList, useAsDefault: true },
-                        { path: '/restautante/:id', name: 'Restaurante', component: restaurantes_detalle_component_1.RestaurantesDetalle }
+                        { path: '/restaurante/:id', name: 'Restaurante', component: restaurantes_detalle_component_1.RestaurantesDetalle },
                     ]), 
                     __metadata('design:paramtypes', [])
                 ], AppComponent);

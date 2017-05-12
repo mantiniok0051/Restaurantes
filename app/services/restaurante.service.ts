@@ -19,4 +19,7 @@ export class RestauranteService{
 		return this._http.get('http://slim.api.local:2121/restaurantes-api.php/restaurantes')
 			   .map(res => res.json());
 	}
+	getRestaurante(id:string){
+		return this._http.get('http://slim.api.local:2121/restaurantes-api.php/restaurante/'+id)
+			   .map(res => res.json());}
 }

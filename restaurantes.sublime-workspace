@@ -1,0 +1,951 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"rou",
+				"RouteConfig	alias"
+			],
+			[
+				"res",
+				"restaurantes-detalle"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"lo",
+				"logRestaurantes	method"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"null",
+				"null	keyword"
+			],
+			[
+				"i",
+				"if	if …"
+			],
+			[
+				"st",
+				"status	var"
+			],
+			[
+				"get",
+				"getRestaurantes	method"
+			],
+			[
+				"Htt",
+				"HTTP_PROVIDERS	const"
+			],
+			[
+				"Res",
+				"RestauranteService	alias"
+			],
+			[
+				"import",
+				"import	keyword"
+			],
+			[
+				"padin",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"lis",
+				"lis	list-style"
+			],
+			[
+				"on",
+				"ngOnInit	method"
+			],
+			[
+				"_",
+				"_routeParams	property"
+			],
+			[
+				"Cur",
+				"Curso	alias"
+			],
+			[
+				"R",
+				"ROUTER_DIRECTIVES	const"
+			],
+			[
+				"_rou",
+				"_routeParams	property"
+			],
+			[
+				"n",
+				"navigate	method"
+			],
+			[
+				"con",
+				"constructor	keyword"
+			],
+			[
+				"cur",
+				"cursos	parameter"
+			],
+			[
+				"pa",
+				"path	property"
+			],
+			[
+				"Cata",
+				"CatalogoCursos	alias"
+			],
+			[
+				"Rou",
+				"RouteConfig	alias"
+			],
+			[
+				"Router",
+				"Router	alias"
+			],
+			[
+				"cons",
+				"const	keyword"
+			],
+			[
+				"impor",
+				"import	keyword"
+			],
+			[
+				"Curs",
+				"CursosService	alias"
+			],
+			[
+				"im",
+				"import	keyword"
+			],
+			[
+				"impot",
+				"import	keyword"
+			],
+			[
+				"ng",
+				"ngIf	Angular 2 ngIf Snippet"
+			],
+			[
+				"sty",
+				"styleUrls	property"
+			],
+			[
+				"const",
+				"constructor	keyword"
+			],
+			[
+				"li",
+				"list	list"
+			],
+			[
+				"impo",
+				"import	keyword"
+			],
+			[
+				"in",
+				"innerHTML	property"
+			],
+			[
+				"list",
+				"list	local var"
+			],
+			[
+				"de",
+				"desplegar	method"
+			],
+			[
+				"nu",
+				"nuevo_registro	local var"
+			],
+			[
+				"str",
+				"string	parameter"
+			],
+			[
+				"In",
+				"Inventariable	class"
+			],
+			[
+				"onC",
+				"onclick	Attr"
+			],
+			[
+				"es",
+				"extends	keyword"
+			],
+			[
+				"me",
+				"medida	property"
+			],
+			[
+				"cla",
+				"class	class …"
+			],
+			[
+				"ar",
+				"articulo	parameter"
+			],
+			[
+				"pri",
+				"private	keyword"
+			],
+			[
+				"ge",
+				"getFabricante	method"
+			],
+			[
+				"en",
+				"encendido	property"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"boolean",
+				"boolean	keyword"
+			],
+			[
+				"le",
+				"let	keyword"
+			],
+			[
+				"pe",
+				"peso	property"
+			],
+			[
+				"b",
+				"bhp	property"
+			],
+			[
+				"f",
+				"formfactor	property"
+			],
+			[
+				"string",
+				"string	keyword"
+			],
+			[
+				"my",
+				"myStr	let"
+			],
+			[
+				"nom",
+				"nombre_usuario	let"
+			],
+			[
+				"HT",
+				"HTMLElement	interface"
+			],
+			[
+				"func",
+				"function	keyword"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"c",
+				"table-cell"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"background-",
+				"background-attachment"
+			],
+			[
+				"ima",
+				"background-image"
+			],
+			[
+				"ne",
+				"nextElementSibling"
+			],
+			[
+				"pre",
+				"previousElementSibling"
+			],
+			[
+				"prev",
+				"prevBtn"
+			],
+			[
+				"se",
+				"setAttribute"
+			],
+			[
+				"user",
+				"userLang"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"s",
+				"small-caption"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"fot",
+				"font-style"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"MA",
+				"max-width"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"backgrou",
+				"background-attachment"
+			],
+			[
+				"g",
+				"getopt"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"a",
+				"text-align"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"to",
+				"toLCD"
+			],
+			[
+				"LC",
+				"Lcd"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1594,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Contro",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 456.0
+	},
+	"console":
+	{
+		"height": 60.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/webapp/index.html",
+		"/C/xampp/htdocs/webapp/assets/css/styles.css",
+		"/C/xampp/htdocs/webapp/app/components/restaurantes-list.component.ts",
+		"/C/xampp/htdocs/webapp/app/app.component.ts",
+		"/C/xampp/htdocs/webapp/app/components/restaurantes-detalle.component.ts",
+		"/C/xampp/htdocs/webapp/app/view/restaurantes-detalle.html",
+		"/C/xampp/htdocs/webapp/app/view/restaurantes-list.html",
+		"/C/xampp/htdocs/webapp/app/services/restaurante.service.ts",
+		"/C/xampp/htdocs/webapp/webapp/.git/refs/heads/development",
+		"/C/xampp/htdocs/webapp/webapp/.git/refs/heads/master",
+		"/C/xampp/htdocs/webapp/webapp/.git/info/exclude",
+		"/C/xampp/htdocs/webapp/webapp/.git/index",
+		"/C/xampp/htdocs/webapp/webapp/.git/ORIG_HEAD",
+		"/C/xampp/htdocs/webapp/webapp/.git/config",
+		"/C/xampp/htdocs/webapp/npm-debug.log",
+		"/C/xampp/htdocs/webapp/app/view/home.html",
+		"/C/xampp/htdocs/webapp/app/components/restaurantes-detalles.component.ts",
+		"/C/xampp/htdocs/slim/restaurantes-api.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/webapp/app/main.ts",
+		"/C/xampp/htdocs/webapp/.gitignore",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/services/restaurante.service.ts",
+		"/C/xampp/htdocs/slim/index.php",
+		"/C/xampp/htdocs/slim/composer.json",
+		"/C/xampp/htdocs/slim/vendor/composer/autoload_real.php",
+		"/C/xampp/htdocs/slim/vendor/autoload.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/index.html",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/view/home.html",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/view/restaurantes-list.html",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/components/restaurantes-list.component.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/app.component.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/assets/css/styles.css",
+		"/C/xampp/mysql/bin/my.ini",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/model/restaurante.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/view/restaurantes.html",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/restaurantes-api.php",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/package.json",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/typings.json",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/tsconfig.json",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/app/main.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/webapp/angular-webapp.sql",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/app.component.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/components/nuevo.component.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/components/catalogo.component.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/view/nuevo-cursos.html",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/view/catalogo-cursos.html",
+		"/C/xampp/htdocs/Angular2/.htaccess",
+		"/C/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/assets/css/styles.css",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/view/cursos.html",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/services/cursos.service.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/main.js",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/view/contacto-cursos.html",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/components/contacto.component.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/index.html",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/main.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/services/mock.cursos.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/view/footer-cursos.html",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/components/footer.component.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/model/curso.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/app/components/footer-cursos.html",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/tsconfig.json",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/package.json",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/typings.json",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/HolaMundo.sublime-project",
+		"/C/xampp/htdocs/Angular2/Angular2/typescrip/tsconfig.json",
+		"/C/xampp/htdocs/Angular2/Angular2/Ang2-U02-V09-AA1/holamundo.html",
+		"/C/xampp/htdocs/Angular2/Angular2/typescrip/index.html",
+		"/C/xampp/htdocs/Angular2/Angular2/typescrip/articulo.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/typescrip/programa.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/typescrip/coche.ts",
+		"/c/xampp/htdocs/angular2/angular2/typescrip/tsconfig.json",
+		"/C/xampp/htdocs/Angular2/Angular2/typescrip/interfaces.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/typescrip/clases.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/typescrip/coche.js",
+		"/C/xampp/htdocs/Angular2/Angular2/typescrip/prueba.ts",
+		"/C/xampp/htdocs/Angular2/Angular2/typescrip/prueba.js",
+		"/C/Users/MARIANO/AppData/Roaming/Sublime Text 3/Packages/ArcticTypescript/README.md",
+		"/C/Users/MARIANO/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/MARIANO/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/MARIANO/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/MARIANO/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScriptReact.sublime-settings",
+		"/C/Users/MARIANO/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/C/Users/MARIANO/AppData/Roaming/Sublime Text 3/Packages/TypeScript/Preferences.sublime-settings",
+		"/C/Users/MARIANO/AppData/Roaming/Sublime Text 3/Packages/NodeRequirer/Default (Linux).sublime-keymap",
+		"/C/Users/MARIANO/AppData/Roaming/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/C/GreenLyon/h4h/Reales WP v1.0.8/theme/style.css",
+		"/C/GreenLyon/h4h/Reales WP v1.0.8/theme/realeswp/rtl.css",
+		"/C/xampp/htdocs/bootstrap-3.3.5-dist - Copy/bs3-files-components.php",
+		"/C/GreenLyon/h4h/Reales WP v1.0.8/theme/realeswp/style.css",
+		"/C/GreenLyon/h4h/Reales WP v1.0.8/theme/_index.php",
+		"/C/GreenLyon/h4h/Reales WP v1.0.8/theme/realeswp/admin/css/style.css",
+		"/C/GreenLyon/h4h/Reales WP v1.0.8/theme/index.php",
+		"/C/GreenLyon/h4h/Reales WP v1.0.8/theme/realeswp/templates/leftside_menu.php",
+		"/C/GreenLyon/h4h/Reales WP v1.0.8/theme/realeswp/index.php",
+		"/C/GreenLyon/h4h/Reales WP v1.0.8/theme/realeswp/single-agent.php",
+		"/C/GreenLyon/h4h/Reales WP v1.0.8/theme/realeswp/submit-property.php",
+		"/C/GreenLyon/h4h/roomview/h4h-room-view.html",
+		"/C/GreenLyon/h4h/roomview/h4h-room-view.css",
+		"/C/Users/MARIANO/docker_context/mydockerbuild/Dockerfile",
+		"/C/Users/MARIANO/Downloads/h4hphp.ini",
+		"/C/Users/MARIANO/Downloads/digitalocean",
+		"/C/Users/MARIANO/Downloads/en_GB.po",
+		"/C/Users/MARIANO/Downloads/nginx.conf",
+		"/C/Users/MARIANO/Downloads/fastcgi.conf",
+		"/C/Users/MARIANO/workspace/web/polymer-drive-client/drive-app.html",
+		"/C/Users/MARIANO/workspace/web/polymer-drive-client/index.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-09/my-mixin.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-09/my-carousel.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-09/index.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-08/my-mixin.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-08/index.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-08/my-carousel.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-07/my-mixin.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-07/index.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-07/my-carousel.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-06/my-mixin.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-06/my-carousel.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-06/index.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-05/my-carousel.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-05/my-mixin.html",
+		"/C/Users/MARIANO/workspace/web/polymer-2-carousel/step-05/index.html",
+		"/C/xampp/htdocs/axatipe.com.mx/resources/css/axatipe.css",
+		"/C/xampp/htdocs/axatipe.com.mx/resources/css/demo.css",
+		"/C/xampp/htdocs/axatipe.com.mx/resources/PhotoGallery.html",
+		"/C/xampp/htdocs/axatipe.com.mx/resources/DocumentGallery.html",
+		"/C/xampp/htdocs/axatipe.com.mx/resources/css/component.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"IfModule ",
+			"IfModule mod_headers.c",
+			"'",
+			"foot",
+			".home-footer",
+			".home-foo",
+			"home-foo",
+			".home-foo",
+			"display_errors",
+			"home-logo",
+			"users",
+			"user-info",
+			"<section data-route=”home”>",
+			"carouse",
+			"oldselected",
+			"demo",
+			"gall",
+			"overlay",
+			"AkzidenzGrotesk",
+			"a",
+			"button",
+			"overlay",
+			"butt",
+			"Akzidenz-Grotesk BQ",
+			"Photos",
+			"Fotos",
+			"span",
+			"drags",
+			"button.cont",
+			"span",
+			"Mission",
+			"objetives",
+			"span",
+			"Akzidenz-Grotesk BQ Extended",
+			"dragslider",
+			"contacto",
+			"ref",
+			"calenda",
+			"cale",
+			"calendario",
+			"calen",
+			"dragdealer2",
+			"youtube.com",
+			"iframe",
+			"h1",
+			"img/thumb/sapo doocumentos octavio",
+			"thumb",
+			"nav",
+			"nav-prev",
+			"bgIn",
+			"h3",
+			"h1",
+			"icon",
+			"icon nav-prev",
+			"h1",
+			"calendario",
+			"h1",
+			"SECTION",
+			"p",
+			"conten",
+			"figure",
+			"img",
+			"slideshow",
+			"ul",
+			"Letterpress asymmetrical",
+			"font",
+			"Tradición",
+			"REDES",
+			"skip_CaptchaCode",
+			"cont",
+			"logo",
+			"content",
+			"introORH",
+			"img1b",
+			"orhFacePic",
+			"textCon",
+			"_precio",
+			"í",
+			"ó",
+			"555",
+			"container",
+			"Scatter",
+			"bsm",
+			"servername",
+			"servernam",
+			"serverna,e",
+			"server",
+			"\"",
+			"conectarse",
+			"conectarse()",
+			"mod_file_cache",
+			"CacheFile",
+			"cache",
+			"File Caching",
+			"conexion",
+			"root"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"oldSelected",
+			"Akzidenz-Grotesk",
+			"img/photo/01.jpg",
+			"document"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 30.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 30.0
+	},
+	"project": "/C/xampp/htdocs/webapp/webapp.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

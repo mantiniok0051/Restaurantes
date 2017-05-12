@@ -9,7 +9,8 @@ body{
 	 font-family: 'Roboto', sans-serif;
 	 color: #444;
 	}
-#content{	
+#content{
+	text-align: center;	
 	width: 80%;
 	min-height: 500px;
 	margin: 0 auto;

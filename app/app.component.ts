@@ -18,7 +18,7 @@ import {RestaurantesDetalle} from './components/restaurantes-detalle.component';
 })
 @RouteConfig([
 		{path: '/', name:'Home', component: RestaurantesList, useAsDefault: true},
-		{path: '/restautante/:id', name:'Restaurante', component: RestaurantesDetalle}
+		{path: '/restaurante/:id', name:'Restaurante', component: RestaurantesDetalle}, 
 	])
 
 // Clase del componente donde iran los datos y funcionalidades
