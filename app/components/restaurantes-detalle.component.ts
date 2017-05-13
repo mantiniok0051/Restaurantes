@@ -17,8 +17,7 @@ import {Restaurante} from '../model/restaurante';
 
 // Clase del componente donde iran los datos y funcionalidades
 export class RestaurantesDetalle implements OnInit{
-	private titulo = 'restaurante-detalle';
-	private parametro;
+	private id_actual:string;
 	private restaurante:Restaurante[];
 	private status:string;
 	private errorMessage:string;
@@ -30,19 +29,20 @@ export class RestaurantesDetalle implements OnInit{
 		){}
 
 	ngOnInit(){
-		this.parametro = this._routeParams.get('id');
 		this.getRestaurante();
 	}
 	getRestaurante(){
+		this.id_actual = this._routeParams.get('id');
 		let id= this._routeParams.get('id');
 		this._service.getRestaurante(id)
 			.subscribe(
 					response => {
 						this.restaurante = response.data;
 						this.status = response.status;
-
+						console.log('status'+response.status);
+						
 						if(this.status !== "success") {
-							//alert('Chales, algo salió mal :(');
+							alert('Chales, algo salió mal :(');
 							this._router.navigate(["/Home"]);							
 						}
 					},

@@ -11,14 +11,14 @@ import {RestaurantesDetalle} from './components/restaurantes-detalle.component';
 @Component ({
 	selector: 'mi-app',
 	templateUrl: 'app/view/home.html',
-	directives: [
-					RestaurantesList,
+	directives: [	RestaurantesList,
+					RestaurantesDetalle,
 					ROUTER_DIRECTIVES //Habilitar rutas
 				]
 })
 @RouteConfig([
 		{path: '/', name:'Home', component: RestaurantesList, useAsDefault: true},
-		{path: '/restaurante/:id', name:'Restaurante', component: RestaurantesDetalle}, 
+		{path: '/restaurante/:id', name:'Restaurante', component: RestaurantesDetalle} 
 	])
 
 // Clase del componente donde iran los datos y funcionalidades

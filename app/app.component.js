@@ -40,14 +40,14 @@ System.register(['angular2/core', 'angular2/router', './components/restaurantes-
                     core_1.Component({
                         selector: 'mi-app',
                         templateUrl: 'app/view/home.html',
-                        directives: [
-                            restaurantes_list_component_1.RestaurantesList,
+                        directives: [restaurantes_list_component_1.RestaurantesList,
+                            restaurantes_detalle_component_1.RestaurantesDetalle,
                             router_1.ROUTER_DIRECTIVES //Habilitar rutas
                         ]
                     }),
                     router_1.RouteConfig([
                         { path: '/', name: 'Home', component: restaurantes_list_component_1.RestaurantesList, useAsDefault: true },
-                        { path: '/restaurante/:id', name: 'Restaurante', component: restaurantes_detalle_component_1.RestaurantesDetalle },
+                        { path: '/restaurante/:id', name: 'Restaurante', component: restaurantes_detalle_component_1.RestaurantesDetalle }
                     ]), 
                     __metadata('design:paramtypes', [])
                 ], AppComponent);

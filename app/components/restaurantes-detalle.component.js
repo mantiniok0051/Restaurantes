@@ -30,21 +30,21 @@ System.register(['angular2/core', 'angular2/router', '../services/restaurante.se
                     this._service = _service;
                     this._routeParams = _routeParams;
                     this._router = _router;
-                    this.titulo = 'restaurante-detalle';
                 }
                 RestaurantesDetalle.prototype.ngOnInit = function () {
-                    this.parametro = this._routeParams.get('id');
                     this.getRestaurante();
                 };
                 RestaurantesDetalle.prototype.getRestaurante = function () {
                     var _this = this;
+                    this.id_actual = this._routeParams.get('id');
                     var id = this._routeParams.get('id');
                     this._service.getRestaurante(id)
                         .subscribe(function (response) {
                         _this.restaurante = response.data;
                         _this.status = response.status;
+                        console.log('status' + response.status);
                         if (_this.status !== "success") {
-                            //alert('Chales, algo salió mal :(');
+                            alert('Chales, algo salió mal :(');
                             _this._router.navigate(["/Home"]);
                         }
                     }, function (error) {
