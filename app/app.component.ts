@@ -6,6 +6,8 @@ import {ROUTER_DIRECTIVES, RouteConfig, Router} from 'angular2/router';
 import {RestaurantesList} from './components/restaurantes-list.component';
 // Componente local detalle del item	
 import {RestaurantesDetalle} from './components/restaurantes-detalle.component';
+// Componente local nuevo registro de item	
+import {RestaurantesNuevo} from './components/restaurantes-nuevo.component';
 
 // Decorador component, indicamos en que etiqueta se va a cargar la plantilla
 @Component ({
@@ -18,7 +20,8 @@ import {RestaurantesDetalle} from './components/restaurantes-detalle.component';
 })
 @RouteConfig([
 		{path: '/', name:'Home', component: RestaurantesList, useAsDefault: true},
-		{path: '/restaurante/:id', name:'Restaurante', component: RestaurantesDetalle} 
+		{path: '/restaurante/:id', name:'Restaurante', component: RestaurantesDetalle},
+		{path: '/nuevo-restaurante/', name:'NuevoRestaurante', component:RestaurantesNuevo}
 	])
 
 // Clase del componente donde iran los datos y funcionalidades

@@ -11,7 +11,7 @@ System.register(['angular2/core', 'angular2/router', '../services/restaurante.se
         if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
     };
     var core_1, router_1, restaurante_service_1;
-    var RestaurantesDetalle;
+    var RestaurantesNuevo;
     return {
         setters:[
             function (core_1_1) {
@@ -25,49 +25,27 @@ System.register(['angular2/core', 'angular2/router', '../services/restaurante.se
             }],
         execute: function() {
             // Decorador @Component, confiración del componente
-            RestaurantesDetalle = (function () {
-                function RestaurantesDetalle(_service, _routeParams, _router) {
+            RestaurantesNuevo = (function () {
+                function RestaurantesNuevo(_service, _routeParams, _router) {
                     this._service = _service;
                     this._routeParams = _routeParams;
                     this._router = _router;
                 }
-                RestaurantesDetalle.prototype.ngOnInit = function () {
-                    this.getRestaurante();
+                RestaurantesNuevo.prototype.ngOnInit = function () {
+                    console.log('Componente RestaurantesNuevo cargado');
                 };
-                RestaurantesDetalle.prototype.getRestaurante = function () {
-                    var _this = this;
-                    this.id_actual = this._routeParams.get('id');
-                    var id = this._routeParams.get('id');
-                    this._service.getRestaurante(id)
-                        .subscribe(function (response) {
-                        _this.restaurante = response.data;
-                        _this.status = response.status;
-                        console.log('status' + response.status);
-                        if (_this.status !== "success") {
-                            //alert('Chales, algo salió mal :(');
-                            _this._router.navigate(["/Home"]);
-                        }
-                    }, function (error) {
-                        _this.errorMessage = error;
-                        if (_this.errorMessage !== null) {
-                            console.log(_this.errorMessage);
-                            alert('Changos, algo salió mal :(');
-                            _this._router.navigate(["/Home"]);
-                        }
-                    });
-                };
-                RestaurantesDetalle = __decorate([
+                RestaurantesNuevo = __decorate([
                     core_1.Component({
-                        selector: 'restaurantes-detalle',
-                        templateUrl: 'app/view/restaurantes-detalle.html',
+                        selector: 'restaurantes-nuevo',
+                        templateUrl: 'app/view/restaurantes-nuevo.html',
                         providers: [restaurante_service_1.RestauranteService]
                     }), 
                     __metadata('design:paramtypes', [restaurante_service_1.RestauranteService, router_1.RouteParams, router_1.Router])
-                ], RestaurantesDetalle);
-                return RestaurantesDetalle;
+                ], RestaurantesNuevo);
+                return RestaurantesNuevo;
             }());
-            exports_1("RestaurantesDetalle", RestaurantesDetalle);
+            exports_1("RestaurantesNuevo", RestaurantesNuevo);
         }
     }
 });
-//# sourceMappingURL=restaurantes-detalle.component.js.map
+//# sourceMappingURL=restaurante-nuevo.component.js.map

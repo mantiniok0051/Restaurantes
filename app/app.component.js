@@ -1,4 +1,4 @@
-System.register(['angular2/core', 'angular2/router', './components/restaurantes-list.component', './components/restaurantes-detalle.component'], function(exports_1, context_1) {
+System.register(['angular2/core', 'angular2/router', './components/restaurantes-list.component', './components/restaurantes-detalle.component', './components/restaurantes-nuevo.component'], function(exports_1, context_1) {
     "use strict";
     var __moduleName = context_1 && context_1.id;
     var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -10,7 +10,7 @@ System.register(['angular2/core', 'angular2/router', './components/restaurantes-
     var __metadata = (this && this.__metadata) || function (k, v) {
         if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
     };
-    var core_1, router_1, restaurantes_list_component_1, restaurantes_detalle_component_1;
+    var core_1, router_1, restaurantes_list_component_1, restaurantes_detalle_component_1, restaurantes_nuevo_component_1;
     var AppComponent;
     return {
         setters:[
@@ -25,6 +25,9 @@ System.register(['angular2/core', 'angular2/router', './components/restaurantes-
             },
             function (restaurantes_detalle_component_1_1) {
                 restaurantes_detalle_component_1 = restaurantes_detalle_component_1_1;
+            },
+            function (restaurantes_nuevo_component_1_1) {
+                restaurantes_nuevo_component_1 = restaurantes_nuevo_component_1_1;
             }],
         execute: function() {
             // Decorador component, indicamos en que etiqueta se va a cargar la plantilla
@@ -47,7 +50,8 @@ System.register(['angular2/core', 'angular2/router', './components/restaurantes-
                     }),
                     router_1.RouteConfig([
                         { path: '/', name: 'Home', component: restaurantes_list_component_1.RestaurantesList, useAsDefault: true },
-                        { path: '/restaurante/:id', name: 'Restaurante', component: restaurantes_detalle_component_1.RestaurantesDetalle }
+                        { path: '/restaurante/:id', name: 'Restaurante', component: restaurantes_detalle_component_1.RestaurantesDetalle },
+                        { path: '/nuevo-restaurante/', name: 'NuevoRestaurante', component: restaurantes_nuevo_component_1.RestaurantesNuevo }
                     ]), 
                     __metadata('design:paramtypes', [])
                 ], AppComponent);
