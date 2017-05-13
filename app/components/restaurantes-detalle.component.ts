@@ -42,7 +42,7 @@ export class RestaurantesDetalle implements OnInit{
 						console.log('status'+response.status);
 						
 						if(this.status !== "success") {
-							alert('Chales, algo salió mal :(');
+							//alert('Chales, algo salió mal :(');
 							this._router.navigate(["/Home"]);							
 						}
 					},
